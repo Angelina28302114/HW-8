@@ -1,0 +1,122 @@
+:root{
+    --logo-color: #000000;
+    --thumb-color: #000;
+    --menu-color: #000000;
+    --title-color: #000000;
+    --selectors-color: #000000;
+
+
+
+
+
+    --ykrmova-color: #008cff;
+    --malyvanna-color: #ff0000;
+    --matematika-color: #ff97ee;
+    --sarlit-color: #cbc5ff;
+    --teorahia-color: #2bff00;
+    --ykrlit-color: #3bf2ff;
+    --history-color: #f3ff50;
+    --anglmova-color: #e17eff;
+    --biologia-color: #79ffb1;
+    --mysika-color: #757575;
+    --etika-color: #ff5f9c;
+    --cmd-color: #6b6b6b;
+    --obromist-color: #292929;
+    --informatika-color: #ffa9a9;
+  }
+  
+  /* .logo {
+    color: var(--logo-color);
+  }
+
+  .thumb {
+    color: var(--thumb-color);
+  }
+
+  .menu {
+    color: var(--menu-color);
+  }
+
+  .title {
+    color: var(--title-color);
+  }
+
+  .selectors {
+    color: var(--selectors-color);
+  } */
+
+  .ykrmova {
+    color: var(--ykrmova-color);
+  }
+
+  .malyvanna {
+    color: var(--malyvanna-color);
+  }
+
+  .matematika {
+    color: var(--matematika-color);
+  }
+
+  .sarlit {
+    color: var(--sarlit-color);
+  }
+
+  .teorahia {
+    color: var(--teorahia-color);
+  }
+
+  .ykrlit {
+    color: var(--ykrlit-color);
+  }
+
+  .history {
+    color: var(--history-color);
+  }
+
+  .anglmova {
+    color: var(--anglmova-color);
+  }
+
+  .biologia {
+    color: var(--biologia-color);
+  }
+
+  .mysika {
+    color: var(--mysika-color);
+  }
+
+  .etika {
+    counter-reset: var(--etika-color);
+  }
+
+  .cmd {
+    color: var(--cmd-color);
+  }
+
+  .obromist {
+    color: var(--obromist-color);
+  }
+
+  .informatika {
+    color: var(--informatika-color);
+  }
+
+  .logo:first-of-type {
+    color: #ffa9a9;
+  }
+
+  .thumb:last-of-type{
+    color: #f3ff50;
+  }
+
+  .menu:only-of-type {
+    color: #7ac3ff;
+  }
+
+  .title:last-of-type{
+    color: #79ffb1;
+  }
+
+  .selectors:only-of-type {
+    color: slateblue;
+  }
